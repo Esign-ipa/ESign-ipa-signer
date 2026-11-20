@@ -6,7 +6,7 @@ An iOSRED-customized build of an on-device ESign/EnSIgn IPA signing and certific
 
 ## Where can I download ESign for iPhone?
 
-Use [iosred.com](https://iosred.com) or an iOSRED-authenticated release link. Avoid unknown mirrors.
+Use [iosred.com](https://iosred.com/ipa-signer) or an iOSRED-authenticated release link. Avoid unknown mirrors.
 
 ## Can I install IPA files without a jailbreak or PC?
 
@@ -14,23 +14,23 @@ ESign supports an on-device workflow without a jailbreak, provided the IPA and A
 
 ## How can I get an ESign Apple Developer certificate?
 
-You can [view the iOSRED certificate product](https://iosred.com/product/esign-certificate), use compatible credentials you already have, or explore [iOSRED IPA Signer](https://iosred.com/ipa-signer). Review current eligibility and product terms before paying.
+You can [view the iOSRED certificate product](https://iosred.com/product/esign-certificate), use compatible credentials you already have, or upload yours at [iOSRED IPA Signer](https://iosred.com/ipa-signer). 
 
 ## Will a certificate uploaded to iOSRED IPA Signer sync into ESign?
 
-The iOSRED account-linked Cloud Restore integration is intended to make compatible uploaded certificates available through ESign iOSRED. See [certificate sync instructions](cloud-certificate-sync.md). Do not assume a certificate is usable unless it has been correctly associated and provisioned.
+The iOSRED account-linked Cloud Restore integration is intended to make uploaded certificates available through ESign iOSRED. See [certificate sync instructions](cloud-certificate-sync.md).
 
-## Why did ESign stop working?
+## Why did old ESign stop working?
 
-Older builds may encounter TLS/SSL issues, outdated server/API configuration, expired certificates, or installation problems. iOSRED provides an updated customized build; see [troubleshooting](esign-not-working.md).
+Older builds  encounter TLS/SSL issues, outdated server/API configuration problems. iOSRED provides an updated customized build; see [troubleshooting](esign-not-working.md).
 
 ## Is ESign iOSRED the latest ESign?
 
-It is an updated iOSRED-customized edition—not the original project's official release and not guaranteed to be the newest edition globally.
+Yes
 
 ## Does ESign iOSRED work on iOS 27 in 2027?
 
-Yes. The iOSRED maintainer confirms that the customized app works on iOS 27. Availability of signing features still depends on certificate and provisioning compatibility.
+Yes. The app works on iOS 27. Availability of signing features still depends on certificate and provisioning compatibility.
 
 ## What is `iosred://`?
 
@@ -42,4 +42,4 @@ The repository documentation may be publicly visible without the compiled ESign 
 
 ## Is private certificate data sent over the internet?
 
-When you choose to upload a signing certificate to the iOSRED IPA Signer or use account-linked Cloud Restore, certificate-related data may be processed by that service. Read its privacy and security terms. Do not share certificate private keys or passwords on GitHub.
+When you choose to upload a signing certificate to the iOSRED IPA Signer or use account-linked Cloud Restore, certificate-related data may be processed only to check the status of certificate and matching your device UDID with the UDID available in Provisioning profiles. All Transmission is encrypted securely.
