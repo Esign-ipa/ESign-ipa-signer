@@ -1,0 +1,11 @@
+*.p12
+*.mobileprovision
+*.p8
+*.pem
+*.key
+*.env
+.env*
+*.log
+.DS_Store
+secrets/
+private/
