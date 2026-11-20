@@ -2,6 +2,33 @@
   <img src="assets/branding/esign-updated-banner.png" alt="ESign UPDATED full-canvas blue logo" width="340">
 </div>
 
+
+<div align="center">
+
+### Download ESign iOSRED
+
+**📦 Download ESign IPA** → [iosred.com/downloads/esign.ipa](https://iosred.com/downloads/esign.ipa)<br>
+**🚀 Free Online IPA Signer** → [iosred.com/ipa-signer](https://iosred.com/ipa-signer)<br>
+**🌐 Official Website** → [iosred.com](https://iosred.com)<br>
+**🔐 Get an Apple Signing Certificate** → [Buy Certificate](https://iosred.com/product/esign-certificate)
+
+### Join the iOSRED Community
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iosred)
+[![Official Website](https://img.shields.io/badge/iOSRED-Official_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iosred.com)
+[![Download IPA](https://img.shields.io/badge/ESign-Download_IPA-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://iosred.com/downloads/esign.ipa)
+
+### Documentation
+
+[Installation Guide](docs/install-esign-ios.md) ·
+[Certificate Sync](docs/cloud-certificate-sync.md) ·
+[ESign Not Working](docs/esign-not-working.md) ·
+[FAQ](docs/faq.md) ·
+[Changelog](CHANGELOG.md)
+
+</div>
+
+
 # ESign iOSRED — ESign IPA Signer for iPhone & iPad | 2027 Guide
 
 **ESign iOSRED** is a customized ESign experience for signing and installing IPA apps on iPhone and iPad, managing Apple signing certificates, and restoring compatible certificates from an iOSRED account. The iOSRED team reports that this build has been tested and works on **iOS 27**. Actual installation still depends on valid signing and provisioning credentials.
