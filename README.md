@@ -31,8 +31,8 @@
 
 # ESign iOSRED — ESign IPA Signer for iPhone & iPad | 2027 Guide
 
-**ESign iOSRED** is a customized ESign experience for signing and installing IPA apps on iPhone and iPad, managing Apple signing certificates, and restoring compatible certificates from an iOSRED account. The iOSRED team reports that this build has been tested and works on **iOS 27**. Actual installation still depends on valid signing and provisioning credentials.
-
+**ESign iOSRED** is an updated ESign app for signing and installing IPA apps on iPhone and iPad, managing Apple signing certificates, and restoring compatible certificates from an iOSRED account. The iOSRED team reports that this build has been tested and works on **iOS 27**. Actual installation still depends on valid signing and provisioning credentials.
+users can upload there certificates on iosred.com/ipa-signers and it will automatically synchronize into ESIGN App according to UDID of your device 
 **Quick links:** [ESign download and installation guide](docs/install-esign-ios.md) · [Online free IPA Signer](https://iosred.com/ipa-signer) · [Get an ESign Signing certificate](https://iosred.com/product/esign-certificate)  · [Troubleshooting / ESign not working](docs/esign-not-working.md) · [FAQ](docs/faq.md)
 
 > **Important:** ESign 2027 is an independently customized build release. The current Esign app is based on Many Developers. For the original projects, see references
